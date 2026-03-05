@@ -121,7 +121,7 @@ It demonstrates the end-to-end analytics lifecycle including data cleaning, KPI 
 ## Dashboard Preview
 
 ![Dashboard](image1_dashboard/E_commerce_dashboard.png)
-![Dashboard](image1_dashboard/E_commerce_analysis.png)
+![Dashboard](image1_dashboard/e_commerce_analysis.png)
 ![Dashboard](image1_dashboard/total_revenue.png)
 
 ---
@@ -155,5 +155,6 @@ This dashboard enables e-commerce decision-makers to:
 
 
 This project demonstrates a complete E-Commerce Customer Behavior Analytics solution that transforms raw transactional and session data into actionable business insights.
+
 
 It highlights strong analytical thinking, data visualization expertise, and business intelligence skills aligned with Data Analyst and Business Intelligence roles.
